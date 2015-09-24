@@ -1,0 +1,23 @@
+#culture {
+  padding: 20vh 0;
+  text-align: center;
+  background-color: #f9f9f9; }
+  #culture h1 {
+    color: #000000;
+    font-weight: bolder;
+    text-align: center; }
+  #culture p {
+    color: #777790;
+    font-size: 16px;
+    text-align: center; }
+  #culture div.rows i {
+    color: #737373;
+    border-radius: 50%;
+    border: 3px solid #737373;
+    padding: 25px; }
+  #culture div.rows h4 {
+    font-weight: bold; }
+  #culture div.rows p {
+    text-align: left; }
+
+/*# sourceMappingURL=culture.css.map */

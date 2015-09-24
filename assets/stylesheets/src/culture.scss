@@ -1,0 +1,31 @@
+#culture{
+
+  padding:20vh 0;
+  text-align: center;
+  background-color: #f9f9f9;
+  // margin-bottom: ;
+  h1{
+    color: #000000;
+    font-weight: bolder;
+    text-align: center;
+  }
+  p{
+    color:#777790;
+    font-size: 16px;
+    text-align: center;
+  }
+  div.rows{
+    i{
+      color:#737373;
+      border-radius: 50%;
+      border:3px solid #737373;
+      padding: 25px;
+    }
+    h4{
+      font-weight: bold;
+    }
+    p{
+      text-align: left;
+    }
+  }
+}

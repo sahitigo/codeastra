@@ -1,0 +1,32 @@
+#blog {
+  padding: 50px 0px 50px 50px;
+  width: 100%;
+  height: 100vh; }
+  #blog p {
+    color: #b9b9b9; }
+  #blog .big {
+    margin-right: 0px;
+    padding-right: 0px; }
+  #blog .contd h1, #blog .contd p {
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%); }
+  #blog .col li {
+    font-weight: bold; }
+    #blog .col li img {
+      height: 40px;
+      width: 40px;
+      border-radius: 50%;
+      border: 2px solid black;
+      margin: 1px 14px;
+      padding: 4px; }
+    #blog .col li span {
+      color: #b9b9b9;
+      padding: 0 0 0 5em; }
+  #blog .col h5 {
+    color: #aad8a7;
+    font-weight: bold; }
+  #blog .cold img {
+    float: right; }
+
+/*# sourceMappingURL=blog.css.map */
